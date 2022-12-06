@@ -3,3 +3,7 @@ void Train()
 {
     printf("Train");
 }
+void Predict()
+{
+    printf("Predict");
+}
